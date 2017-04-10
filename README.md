@@ -8,8 +8,11 @@ the speed, size, number, color, placement, and shape of iterations.
 Enjoy the program! If you find any bugs, please let me know.
 
 Commit 1: Bulk of the program uploaded. Some functions disabled.
+
 Commit 2: Mass comments everywhere and many bug fixes. Few functions disabled.
+
 Commit 3: Everything is commented and organized. Code has been minimized. No functions disabled.
+
 Commit 4: Bug fixes. Added new shapes, restrictions, and tutorial.
 
 - Nick 12/29/2016
