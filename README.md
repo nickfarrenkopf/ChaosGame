@@ -7,10 +7,6 @@ This program allows user to tweak the start and run conditions of the Chaos Game
 the speed, size, number, color, placement, and shape of iterations.
 Enjoy the program! If you find any bugs, please let me know.
 
-For executable jar files (Java Runtime Environment needed), head to
-https://drive.google.com/open?id=0B8yloXKNmwBVZ0xxazZuZ2lDQW8
-
-
 Commit 1: Bulk of the program uploaded. Some functions disabled.
 Commit 2: Mass comments everywhere and many bug fixes. Few functions disabled.
 Commit 3: Everything is commented and organized. Code has been minimized. No functions disabled.
